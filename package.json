@@ -1,5 +1,21 @@
 {
-  "dependencies": {
-    "package.json": "^2.0.1"
-  }
+  "name": "book-finder",
+  "version": "1.0.0",
+  "description": "## Description",
+  "main": "index.js",
+  "scripts": {
+    "start" :"npm start"
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/katelynndonahue/book-finder.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/katelynndonahue/book-finder/issues"
+  },
+  "homepage": "https://github.com/katelynndonahue/book-finder#readme"
 }
