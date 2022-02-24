@@ -5,6 +5,7 @@
   "main": "server.js",
   "scripts": {
     "start": "node server.js",
+    "develop": "npm run",
     "watch": "nodemon server.js"
   },
   "keywords": [],
